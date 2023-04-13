@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: your-docs
+  title: Your Docs Title
+  description: Your Docs Description
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: your-team
