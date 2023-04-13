@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: NakaScene
+  annotations:
+    github.com/project-slug: Jose-Fernandez-Manovel-NTT/NakaScene
+spec:
+  type: other
+  lifecycle: unknown
+  owner: Jose-Fernandez-NTT
