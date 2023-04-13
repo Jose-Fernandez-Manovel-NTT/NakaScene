@@ -4,6 +4,7 @@ metadata:
   name: NakaScene
   annotations:
     github.com/project-slug: Jose-Fernandez-Manovel-NTT/NakaScene
+    backstage.io/techdocs-ref: dir:.
 spec:
   type: other
   lifecycle: unknown
